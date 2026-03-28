@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "We Fresh",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-03-28T13:38:53.179853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/01_We_Fresh_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/02_We_Fresh_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Mannie Fresh feat. Lil Wayne",
+      "has_synced": false,
+      "path": "select/03_We_Fresh_Mannie_Fresh_feat._Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Mannie Fresh featuring Lil Wayne",
+      "has_synced": false,
+      "path": "select/04_We_Fresh_Mannie_Fresh_featuring_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Fresh (Japanese version)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/05_We_Fresh_(Japanese_version)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Fresh (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/06_We_Fresh_(Japanese_ver.)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Fresh (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/07_We_Fresh_(Japanese_ver.)_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Fresh (Japanese version)",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/08_We_Fresh_(Japanese_version)_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Fresh (Album Version)",
+      "artist": "Mannie Fresh Feat. Lil Wayne",
+      "has_synced": false,
+      "path": "select/09_We_Fresh_(Album_Version)_Mannie_Fresh_Feat._Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Mannie Fresh",
+      "has_synced": false,
+      "path": "select/10_We_Fresh_Mannie_Fresh.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Mc Lars, K.Flay",
+      "has_synced": false,
+      "path": "select/11_We_Fresh_Mc_Lars,_K.Flay.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "MC Lars",
+      "has_synced": true,
+      "path": "select/12_We_Fresh_MC_Lars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/13_We_Fresh_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Fresh",
+      "artist": "K.Flay",
+      "has_synced": false,
+      "path": "select/14_We_Fresh_K.Flay.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Fresh",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_We_Fresh_Kep1er.txt"
+    }
+  ]
+}
