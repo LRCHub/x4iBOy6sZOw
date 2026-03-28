@@ -1,0 +1,78 @@
+# Kep1er – We Fresh
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.41] We fresh!
+[00:08.89] Here we go!
+[00:14.39] 
+[00:09.61] 차원이 다른 바이브 바로 지금 원해, need some freedom
+[00:13.62] 어디에서도 본 적이 없는, 우린 new type hero
+[00:17.31] 날 보면 모두, 나-나-난리
+[00:19.23] 기대해, superpow-pow-power
+[00:20.95] Right on time, 보여줘!
+[00:22.80] 등장만으로 전부 thumbs up
+[00:31.80] 
+[00:25.12] (Jump) 시작됐어 like that
+[00:29.02] (Fly) 내 두 팔은 refresh
+[00:33.16] 걱정은 없어, boom
+[00:34.22] 한계는 없어 지켜줄게 now
+[00:36.06] 우릴 외쳐 (go)
+[00:41.06] 
+[00:38.70] 휘몰아쳐 we fresh (gotta go, gotta go, gotta go)
+[00:43.29] We fresh (올라타, 타타-타타-타타-타타타)
+[00:47.65] 뻔하디, 뻔한 틀은 모두 다, break all the rules
+[00:51.58] 우리가 보여줄게 너를 위해 (come on, touch down!)
+[01:10.08] 
+[00:56.79] Move your body fast
+[01:00.66] 손뼉 쳐 하이파이브
+[01:02.64] 좀 더 빠르게 갈게
+[01:04.55] 우리 함께면, we fresh
+[01:06.54] (Oh-eh-oh-oh) we, we, we, we, we fresh
+[01:25.54] 
+[01:12.94] 뜨거워지는 텐션, 이젠 시간이 됐어 (we go)
+[01:15.08] 고민하지 마, veni-vidi-vici
+[01:17.04] Villain 에 맞서, break it, break it, woo!
+[01:20.01] 거침없이 싸워, follow me
+[01:21.88] 불꽃처럼 타올라, 에너지
+[01:23.52] We ready, get set, fight!
+[01:25.22] 멈추지 마, 멈추지 마 now
+[01:33.22] 
+[01:27.44] (Jump) 우릴 믿어 likе that
+[01:31.26] (Fly) 내 두 팔은 skyway
+[01:35.37] 주먹을 쥐어, boom
+[01:36.70] 거침없이 넌 내일을 향해
+[01:38.38] 지켜줄게 (go)
+[01:42.88] 
+[01:41.02] 휘몰아쳐, we fresh (gotta go, gotta go, gotta go)
+[01:45.72] We fresh (올라타, 타타-타타-타타-타타타)
+[01:49.98] 뻔하디, 뻔한 틀은 모두 다, break all the rules
+[01:53.68] 우리가 보여줄게 너를 위해 (come on, touch down!)
+[02:12.18] 
+[01:59.10] Move your body fast
+[02:02.91] 손뼉 쳐 하이파이브
+[02:05.06] 좀 더 빠르게 갈게
+[02:07.03] 우리 함께면, we fresh
+[02:08.97] (Oh-eh-oh-oh) we, we, we, we (we fresh!)
+[02:28.97] 
+[02:18.93] We're goin' to the next
+[02:20.05] Yeah, yeah, yeah, yeah, ah
+[02:24.25] Kep1' moving
+[02:25.68] Kep1' going to the next
+[02:37.18] 
+[02:28.07] 어디에 있던, here I come (we come)
+[02:31.47] 꿈꿨던 모든 걸 현실로
+[02:34.57] 숨이 차도, we can go, 너와 나의 강한 끌림
+[02:38.96] 끝까지, run and run!
+[02:47.46] 
+[02:41.52] 휘몰아쳐, we fresh (we fresh! Gotta go, gotta go, gotta go)
+[02:46.11] We fresh (we fresh! 올라타, 타타-타타-타타-타타타)
+[02:50.45] 뻔하디, 뻔한 틀은 모두 다, break all the rules
+[02:54.14] 우리가 보여줄게 너를 위해 (come on, touch down!)
+[03:12.64] 
+[02:59.78] Move your body fast
+[03:03.35] 손뼉 쳐 하이파이브
+[03:05.49] 좀 더 빠르게 갈게
+[03:07.32] 우리 함께면, we fresh
+[03:09.28] (Oh-eh-oh-oh) we, we, we, we (we fresh!)
+```
